@@ -1,0 +1,154 @@
+{
+  "response": {
+    "hotelDetail": {
+      "hotelId": "H2001",
+      "hotelName": "The Grand Residency",
+      "description": "The Grand Residency is a 5-star luxury hotel in Jaipur, offering premium rooms, fine dining, and exceptional service for families, couples, and business travelers.",
+      "rating": "5",
+      "address": {
+        "addressLine1": "Near Hawa Mahal Road",
+        "area": "Pink City",
+        "city": "Jaipur",
+        "country": "India",
+        "postalCode": "302002"
+      },
+      "longitude": "75.8267",
+      "latitude": "26.9124",
+      "landmarks": [
+        { "name": "Hawa Mahal", "distance": "1.2 km" },
+        { "name": "City Palace", "distance": "1.8 km" },
+        { "name": "Jantar Mantar", "distance": "2.0 km" },
+        { "name": "Albert Hall Museum", "distance": "3.5 km" },
+        { "name": "Jaipur Railway Station", "distance": "5.0 km" },
+        { "name": "Jaipur International Airport", "distance": "12 km" },
+        { "name": "Nahargarh Fort", "distance": "8 km" },
+        { "name": "Amber Fort", "distance": "11 km" },
+        { "name": "Birla Mandir", "distance": "6.5 km" },
+        { "name": "Central Park", "distance": "4.5 km" },
+        { "name": "Bapu Bazaar", "distance": "2.2 km" },
+        { "name": "Johari Bazaar", "distance": "2.5 km" },
+        { "name": "World Trade Park", "distance": "10 km" },
+        { "name": "Sisodia Rani Garden", "distance": "9 km" },
+        { "name": "Galta Ji Temple", "distance": "7 km" },
+        { "name": "Govind Dev Ji Temple", "distance": "3.8 km" },
+        { "name": "Raj Mandir Cinema", "distance": "3.0 km" },
+        { "name": "Kanak Vrindavan Garden", "distance": "9.5 km" },
+        { "name": "Jaigarh Fort", "distance": "13 km" },
+        { "name": "Chokhi Dhani", "distance": "20 km" }
+      ],
+      "checkIn": "2025-09-20",
+      "checkOut": "2025-09-22",
+      "hotelImages": [
+        { "targetImageUrl": "hotelimage3" },
+        { "targetImageUrl": "Hotelimage2" } ,
+        { "targetImageUrl": "hotelimage4" } ,
+        { "targetImageUrl": "Hotelimage5" } ,
+        { "targetImageUrl": "hotelimage6" } ,
+        { "targetImageUrl": "hotelimage7" } ,
+        { "targetImageUrl": "hotelimage9" } ,
+        { "targetImageUrl": "roomimage1" } ,
+        { "targetImageUrl": "roomimage2" } ,
+        { "targetImageUrl": "roomimage3" } ,
+        { "targetImageUrl": "roomimage4" } ,
+        { "targetImageUrl": "roomimage6" } ,
+        { "targetImageUrl": "roomimage7" } ,
+        { "targetImageUrl": "roomimage8" } ,
+        { "targetImageUrl": "roomimage9" } ,
+        { "targetImageUrl": "roomimage10" }
+        
+      ],
+
+      "amenitiesPopup": {
+        "Payments Modes Accepted": ["Credit Card", "Debit Card", "UPI", "Cash", "Net Banking", "PayPal", "International Cards"],
+        "Parking & Transportation": ["Free Parking", "Valet Parking", "Airport Shuttle", "EV Charging Station", "Car Rental", "Bicycle Rental"],
+        "Allowed": ["Pets Allowed on Request", "Outside Food Allowed"],
+        "Suitable For": ["Couples", "Families", "Business Travelers", "Solo Travelers", "Long Stay"],
+        "Not Allowed": ["Smoking in Rooms", "Loud Parties", "Alcohol in Public Areas"],
+        "Services": ["24-hour Room Service", "Laundry", "Concierge Service", "Dry Cleaning", "Doctor on Call", "Massage Service", "Tour Desk", "Currency Exchange", "Child Care", "Shoeshine"],
+        "Languages Spoken by Hotel Staff": ["English", "Hindi", "French", "German", "Spanish"],
+        "Kitchen": ["Electric Kettle", "Microwave (on request)", "Coffee Machine", "Refrigerator", "Toaster"],
+        "Bedroom": ["Air Conditioning", "Blackout Curtains", "Ironing Board", "Premium Bedding", "Extra Pillows", "Soundproofing"],
+        "General": ["Free WiFi", "Swimming Pool", "Spa", "Fitness Center", "Business Center", "Banquet Hall", "Library", "Garden", "Terrace"],
+        "Activities - Indoor & Outdoor": ["Indoor Games", "Yoga Classes", "Cycling Tours", "Outdoor Sports", "Live Music", "Dance Classes", "Cooking Workshops"],
+        "Safety & Security": ["CCTV", "24-hour Security", "Fire Extinguishers", "Smoke Detectors", "First Aid Kit", "Electronic Keycards"],
+        "Media & Entertainment": ["Flat-screen TV", "Satellite Channels", "In-room Movies", "Bluetooth Speakers", "Streaming Services"]
+      },
+      "roomTypes": [
+        {
+          "roomTypeId": "R101",
+          "name": "Deluxe Room",
+          "sellingPrice": 3499,
+          "strikeOffPrice": 5000,
+          "totalRoomPrice": 6998,
+          "roomSize": "320 sq.ft",
+          "bedType": "King Bed",
+          "checkin": "9:00",
+          "checkout" : "12:00",
+          "roomImages": ["roomimage2"],
+          "roomAmenities": [
+            "Free WiFi", "Air Conditioning", "Flat-screen TV", "Mini Bar", "Work Desk", "Wardrobe", "Hair Dryer",
+            "Coffee Maker", "Room Heater", "Safe Locker", "Telephone", "City View", "Iron", "Shower", "Toiletries",
+            "Daily Housekeeping", "Seating Area", "Intercom", "Clothes Rack", "Charging Points"
+          ],
+          "inclusions": [
+            "Breakfast Included", "Free Cancellation before 24 hrs", "Welcome Drink", "Complimentary Water Bottles",
+            "Free Gym Access", "Free Pool Access", "Daily Newspaper", "Airport Drop (shared)", "Tea/Coffee Refill",
+            "Evening Snacks", "Early Check-in on Availability", "Late Check-out on Availability", "Free WiFi",
+            "Shoe Shine Service", "Bed Linen Change on Request", "Complimentary Fruits", "Parking Included",
+            "Spa Discount", "Laundry Discount", "Priority Room Upgrade"
+          ],
+          "cancellationPolicy": ["Free cancellation up to 24 hours before check-in"]
+        },
+        {
+          "roomTypeId": "R102",
+          "name": "Executive Suite",
+          "sellingPrice": 5499,
+          "strikeOffPrice": 7500,
+          "totalRoomPrice": 10998,
+          "roomSize": "500 sq.ft",
+          "bedType": "Queen Bed",
+          "roomImages": ["roomimage1"],
+          "roomAmenities": [
+            "Jacuzzi", "Private Balcony", "Work Desk", "Mini Fridge", "Dining Table", "Lounge Access", "Bathrobe",
+            "Slippers", "Smart TV", "Ironing Facilities", "Safe", "Recliner", "Ocean View", "Reading Lamp", "Private Bar",
+            "Bluetooth Speaker", "Alarm Clock", "Daily Housekeeping", "Wardrobe", "Hair Dryer"
+          ],
+          "inclusions": [
+            "Breakfast + Dinner Included", "Free Airport Pickup", "Mini Bar Access", "Complimentary Chocolates",
+            "Butler Service", "Priority Check-in", "Free Spa Session", "Complimentary Water", "Free WiFi",
+            "24x7 Room Service", "Welcome Drink", "Fruit Basket", "Newspaper", "Complimentary Snacks",
+            "Airport Drop", "Gym Access", "Pool Access", "Late Check-out", "Evening Coffee", "Complimentary Drinks"
+          ],
+          "cancellationPolicy": ["Free cancellation up to 48 hours before check-in"]
+        }
+      ],
+      "reviews": [
+        {
+          "reviewedBy": "Amit Sharma",
+          "reviewDateTime": "2025-09-01 10:30 AM",
+          "review": "Excellent hotel with great service. Rooms are clean and spacious.",
+          "reviewRating": 5
+        },
+        {
+          "reviewedBy": "Sophia Khan",
+          "reviewDateTime": "2025-08-20 04:15 PM",
+          "review": "Good location, but check-in took a while. Breakfast spread was amazing!",
+          "reviewRating": 4
+        }
+      ],
+      "hotelDeals": [
+        {
+          "dealTitle": "Weekend Special",
+          "dealDescription": "Get 15% off on stays over the weekend",
+          "validTill": "2025-09-30"
+        },
+        {
+          "dealTitle": "Early Bird Offer",
+          "dealDescription": "Book 15 days in advance and save 20%",
+          "validTill": "2025-12-31"
+        }
+      ]
+    }
+  }
+}
+

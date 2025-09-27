@@ -1,0 +1,30 @@
+{
+  "response": {
+    "reviewResponse": {
+      "reviews": [
+        {
+          "hotelName": "Hotel Royal Palace",
+          "noOfRatings": "1200",
+          "checkIn": "2025-09-20T14:00",
+          "checkOut": "2025-09-22T12:00",
+          "noOfNights": "2",
+          "roomType": "Deluxe Room",
+          "bedType": "King Size Bed",
+          "roomSize": "350 sq.ft",
+          "roomPolicies": [
+            "No smoking",
+            "No pets allowed",
+            "Check-in from 2 PM",
+            "Check-out by 12 PM"
+          ],
+          "fareBreakup": {
+            "roomFare": "2999",
+            "taxes": "500",
+            "totalFare": "3499"
+          }
+        }
+      ]
+    }
+  }
+}
+

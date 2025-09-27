@@ -1,0 +1,56 @@
+
+{
+  "response": {
+    "searchResponse": {
+      "date": "2025-09-20",
+      "noOfAdults": 2,
+      "noOfHotels": 3,
+      "hotels": [
+        {
+          "hotelId": "H1001",
+          "hotelName": "Hotel Royal Palace",
+          "rating": "4.5",
+          "noOfRatings": 1200,
+          "noOfReviews": 350,
+          "strikePrice": 4500,
+          "price": 2999,
+          "roomleft": "5",
+          "cityName": "Jaipur",
+          "amenities": ["Free WiFi", "Swimming Pool", "Spa", "Airport Shuttle"],
+          "savedOnBooking": 1501,
+          "imageUrl": "https://media.istockphoto.com/id/104731717/photo/luxury-resort.jpg?s=612x612&w=0&k=20&c=cODMSPbYyrn1FHake1xYz9M8r15iOfGz9Aosy9Db7mI="
+        },
+        {
+          "hotelId": "H1002",
+          "hotelName": "Heritage Inn",
+          "rating": "4.2",
+          "noOfRatings": 860,
+          "noOfReviews": 220,
+          "strikePrice": 3800,
+          "price": 2499,
+          "roomleft": "2",
+          "cityName": "Jaipur",
+          "amenities": ["Free Breakfast", "Parking", "Pet Friendly", "Gym"],
+          "savedOnBooking": 1301,
+          "imageUrl": "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        },
+        {
+          "hotelId": "H1003",
+          "hotelName": "The Grand Residency",
+          "rating": "4.8",
+          "noOfRatings": 2100,
+          "noOfReviews": 640,
+          "strikePrice": 6000,
+          "price": 4299,
+          "roomleft": "8",
+          "cityName": "Jaipur",
+          "amenities": ["Free WiFi", "Restaurant", "Bar", "Conference Room"],
+          "savedOnBooking": 1701,
+          "imageUrl": "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg"
+        }
+      ]
+    }
+  }
+}
+
+
